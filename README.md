@@ -1,9 +1,11 @@
 ### README Database connection 
-The three main files used in are main.py, queries.py and database_OOP.py. 
+The three main files used in are database_OOP.py, queries.py and main.py. The files connects to the folder, next to 
+control the functionality of the cursor and lastly presents the the data to the user with abstraction. 
+OOP will be implemented. 
 
 This repository will demonstrate how to :
 - Establish a connection and read data from the database in the Python console
-- In real time, the results code will be presented in the UI, not the terminal
+- In real time, the results code will be presented in the UI. 
 
 ---
 #### Files
